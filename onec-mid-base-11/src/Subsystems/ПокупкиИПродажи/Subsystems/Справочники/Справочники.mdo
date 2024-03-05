@@ -13,5 +13,6 @@
   <content>Catalog.ДоговорыКонтрагентов</content>
   <content>Catalog.Организации</content>
   <content>Catalog.ТОВ_Должности</content>
+  <content>Catalog.ТОВ_КонтактныеЛица</content>
   <parentSubsystem>Subsystem.ПокупкиИПродажи</parentSubsystem>
 </mdclass:Subsystem>
